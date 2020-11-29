@@ -5,7 +5,7 @@
 
 int main()
 {
-    int arr[10];
+    int arr[SIZE];
     for(int i = 0  ; i < SIZE ; ++i){
         std::cin >> arr[i] ; 
         
